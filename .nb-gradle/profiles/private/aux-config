@@ -5,18 +5,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/jaro/ohtu-viikko1/src/main/java/ohtu/ohtuvarasto/Main.java</file>
-        <file>file:/C:/Users/jaro/ohtu-viikko1/build.gradle</file>
-        <file>file:/C:/Users/jaro/ohtu-viikko1/src/test/java/ohtu/ohtuvarasto/VarastoTest.java</file>
-        <file>file:/C:/Users/jaro/ohtu-viikko1/src/main/java/ohtu/ohtuvarasto/Varasto.java</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/src/test/resources/ohtu/increasingCounter.feature</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/src/test/java/ohtu/RunCukesTest.java</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/src/test/java/ohtu/Stepdefs.java</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/src/test/resources/ohtu/resetingCounter.feature</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/build.gradle</file>
       </group>
     </open-files>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
       <group>
-        <file>file:/C:/Users/jaro/ohtu-viikko1/src/main/java/ohtu/ohtuvarasto/Main.java</file>
-        <file>file:/C:/Users/jaro/ohtu-viikko1/build.gradle</file>
-        <file>file:/C:/Users/jaro/ohtu-viikko1/src/test/java/ohtu/ohtuvarasto/VarastoTest.java</file>
-        <file>file:/C:/Users/jaro/ohtu-viikko1/src/main/java/ohtu/ohtuvarasto/Varasto.java</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/src/test/resources/ohtu/increasingCounter.feature</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/src/test/java/ohtu/RunCukesTest.java</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/src/test/java/ohtu/Stepdefs.java</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/src/test/resources/ohtu/resetingCounter.feature</file>
+        <file>file:/C:/Users/jaro/ohtu-viikko1/koodi/viikko3/HelloCucumber/build.gradle</file>
       </group>
     </open-files>
   </auxiliary>
